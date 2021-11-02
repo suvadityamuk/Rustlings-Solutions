@@ -1,0 +1,12 @@
+C:\Users\suvad\RustWorks\rustlings\target\release\deps\console-9bfc4fd4ba1d09ea.rmeta: C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\lib.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\common_term.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\kb.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\term.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\utils.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\windows_term.rs
+
+C:\Users\suvad\RustWorks\rustlings\target\release\deps\libconsole-9bfc4fd4ba1d09ea.rlib: C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\lib.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\common_term.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\kb.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\term.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\utils.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\windows_term.rs
+
+C:\Users\suvad\RustWorks\rustlings\target\release\deps\console-9bfc4fd4ba1d09ea.d: C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\lib.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\common_term.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\kb.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\term.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\utils.rs C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\windows_term.rs
+
+C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\lib.rs:
+C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\common_term.rs:
+C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\kb.rs:
+C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\term.rs:
+C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\utils.rs:
+C:\Users\suvad\.cargo\registry\src\github.com-1ecc6299db9ec823\console-0.7.7\src\windows_term.rs:
